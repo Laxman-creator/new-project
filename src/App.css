@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+h1{
+  margin: 0;
+}
+
+.header{
+  background-color: rgba(41, 12, 229, 0.89);
+  padding: 7px;
+}
+.main{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding:7px;
+  
+  
+  
+  
+}
+.movie{
+  background-color: rgb(208, 200, 200);
+  padding:10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: start;
+  width:15%;
+  margin-top: 10px;
+  
+ 
+  
+
+}
+
+.movie img{
+  
+  height: 200px;
+  width:100%;
+  
+  
+}
+
+
+
+
+
